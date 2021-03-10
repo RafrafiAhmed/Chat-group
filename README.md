@@ -1,2 +1,2 @@
 # Chat-group
-MEAN Chat-Application
+MEAN stack Chat-Application
